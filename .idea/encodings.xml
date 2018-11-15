@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-1.2-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-api-java9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-appserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-cassandra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-core-its" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-core-java9" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-couchdb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-flume-ng" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-iostreams" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-jcl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-jdbc-dbcp2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-jmx-gui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-jul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-liquibase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-mongodb2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-mongodb3" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-osgi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-perf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples/log4j-samples-configuration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples/log4j-samples-flume-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples/log4j-samples-flume-embedded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples/log4j-samples-flume-remote" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-samples/log4j-samples-loggerProperties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-slf4j-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-slf4j18-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-taglib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-to-slf4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/log4j-web" charset="UTF-8" />
+  </component>
+</project>

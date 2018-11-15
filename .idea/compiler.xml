@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="log4j-1.2-api" />
+        <module name="log4j-api" />
+        <module name="log4j-appserver" />
+        <module name="log4j-cassandra" />
+        <module name="log4j-core-its" />
+        <module name="log4j-couchdb" />
+        <module name="log4j-flume-ng" />
+        <module name="log4j-iostreams" />
+        <module name="log4j-jcl" />
+        <module name="log4j-jdbc-dbcp2" />
+        <module name="log4j-jmx-gui" />
+        <module name="log4j-jpa" />
+        <module name="log4j-jul" />
+        <module name="log4j-liquibase" />
+        <module name="log4j-mongodb2" />
+        <module name="log4j-mongodb3" />
+        <module name="log4j-osgi" />
+        <module name="log4j-perf" />
+        <module name="log4j-samples-configuration" />
+        <module name="log4j-samples-flume-common" />
+        <module name="log4j-samples-flume-embedded" />
+        <module name="log4j-samples-flume-remote" />
+        <module name="log4j-samples-loggerProperties" />
+        <module name="log4j-slf4j-impl" />
+        <module name="log4j-slf4j18-impl" />
+        <module name="log4j-taglib" />
+        <module name="log4j-to-slf4j" />
+        <module name="log4j-web" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
